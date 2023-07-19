@@ -1,0 +1,156 @@
+body {
+    margin: 0;
+    font-family: 'Rubik'
+}
+
+.header {
+    position: relative;
+    margin: 0 auto;
+    width: 1350px;
+    background-color: white;
+}
+
+.header .logo__image {
+    position: relative;
+    float: left;
+    margin-top: 45px;
+    margin-left: 5px;
+}
+
+.header .logo__text {
+    display: inline-block;
+    font-size: 20px;
+    margin-top: 55px;
+    margin-left: 7px;
+    background-color: white;
+}
+
+.header .menu {
+    display: inline-block;
+    margin-left: 15%;
+    margin-top: 55px;
+}
+
+.menu .menu__button {
+    display: inline-block;
+    margin-right: 40px;
+    text-decoration: none;
+    color: gray;
+}
+
+.header .login-buttons {
+    float: right;
+    margin-right: 100px;
+    margin-top: 59px;
+}
+
+.login-buttons .sign-in-button {
+    color: black;
+    text-decoration: none;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+.login-buttons .sign-up-button {
+    border: 1.5px solid red;
+    color: red;
+    text-decoration: none;
+    border-radius: 40px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 45px;
+    padding-right: 45px;
+}
+
+.promo-block {
+    background-color: white;
+}
+
+.container-1 {
+    background-color: white;
+    width: 1350px;
+    display: flex;
+    position: relative;
+    margin: 0 auto;
+    padding-top: 110px;
+    padding-bottom: 110px;
+}
+
+.container-1 .text-block {
+    margin-left: 5px;
+    width: 600px;
+    margin-right: 120px;
+}
+
+.text-block .title {
+    width: 555px;
+    color: #0B132A;
+    font-size: 50px;
+    font-style: normal;
+    line-height: 70px;
+    margin-top: 25px;
+}
+
+.text-block .title-paragraph {
+    color: #4F5665;
+    font-family: Rubik;
+    font-size: 16px;
+    font-style: normal;
+    line-height: 30px;
+    margin-top: -30px;
+}
+
+.container-1 .text-block__button {
+    position: absolute;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 70px;
+    padding-right: 70px;
+    background-color: #F53838;
+    text-decoration: none;
+    color: white;
+    margin-top: 25px;
+    border-radius: 7px;
+}
+
+.container-1 .container-1__image {
+    width: 611px;
+    height: 382px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.container2 {
+    background-color: blue;
+    width: 80%;
+    height: 400px;
+    display: flex;
+    position: relative;
+    margin: 0 auto;
+}
+
+.container3 {
+    background-color: green;
+    width: 80%;
+    display: flex;
+    position: relative;
+    margin: 0 auto;
+}
