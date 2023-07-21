@@ -87,31 +87,33 @@ body {
     padding-bottom: 110px;
 }
 
-.container-1 .text-block {
+.container-1__text-block {
     margin-left: 5px;
     width: 600px;
     margin-right: 55px;
 }
 
-.text-block .title {
+.container-1__title {
     width: 555px;
     color: #0B132A;
     font-size: 50px;
     font-style: normal;
     line-height: 70px;
     margin-top: 25px;
+    font-weight: 400;
 }
 
-.text-block .title-paragraph {
+.container-1__paragraph {
     color: #4F5665;
     font-family: Rubik;
     font-size: 16px;
     font-style: normal;
     line-height: 30px;
     margin-top: -30px;
+    font-weight: 300;
 }
 
-.container-1 .text-block__button {
+.get-started-button {
     position: absolute;
     padding-top: 20px;
     padding-bottom: 20px;
@@ -138,9 +140,11 @@ body {
     display: flex;
     position: relative;
     margin: 0 auto;
+    border-radius: 20px;
     box-shadow: 1px 28px 72px -18px rgba(31, 31, 31, 0.49);
     -webkit-box-shadow: 1px 28px 72px -18px rgba(31, 31, 31, 0.49);
     -moz-box-shadow: 1px 28px 72px -18px rgba(31, 31, 31, 0.49);
+    margin-bottom: 96px;
 }
 
 .container-2__block {
@@ -154,7 +158,8 @@ body {
     display: inline-block;
     margin-top: 37.2px;
     margin-bottom: 37.2px;
-    border-left: 2px solid black;
+    border-left: 2px solid #EEEFF2;
+    stroke-width: 2px;
 }
 
 .container-2__block .users-icon {
@@ -177,8 +182,7 @@ body {
     margin-right: 130px;
     margin-left: 36.5px;
     display: inline-block;
-    position: relative;
-    margin-top: -20px;
+    font-weight: 300;
 
 }
 
@@ -186,10 +190,69 @@ body {
     margin-right: 130px;
     margin-left: 36.5px;
     display: inline-block;
+    font-weight: 300;
 }
 
 .container-2__block .servers-number {
     margin-right: 130px;
     margin-left: 36.5px;
     display: inline-block;
+    font-weight: 300;
+}
+
+.container-3 {
+    background-color: white;
+    width: 1140px;
+    display: flex;
+    position: relative;
+    margin: 0 auto;
+    padding-bottom: 131px;
+}
+
+.container-3__image {
+    margin-right: 170px;
+    width: 508.12px;
+    height: 414.715px;
+}
+
+.container-3__title {
+    color: #0B132A;
+    font-family: Rubik;
+    font-size: 35px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 50px;
+    margin-top: 50px;
+}
+
+.container-3__title-paragraph {
+    color: #4F5665;
+    font-family: Rubik;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 30px;
+}
+
+.container-3__item {
+    margin-bottom: 15px;
+}
+
+.container-3__item p {
+    display: inline;
+    margin-left: 10px;
+    color: #4F5665;
+    font-family: Rubik;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 30px;
+}
+
+.circle-check-icon {}
+
+.plan-block {
+    background-color: gray;
+    height: 1000px;
+    width: 100%;
 }
