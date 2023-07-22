@@ -6,6 +6,8 @@
 
 LaslesVPN is a landing page developed using HTML and CSS. It serves as a promotional website that highlights the advantages and functionality of the LaslesVPN service. The page showcases the key features of the service, its benefits, and an attractive design to attract potential users.
 
+You can make a quick view here on **GitHub Pages:** https://aikenm.github.io/neobis_front_lasles_VPN/
+
 ## Installation
 
 To view the LaslesVPN landing page, no installation is required. Simply open the `index.html` file in your web browser.
@@ -40,5 +42,5 @@ Email: a.mnsbkv@gmail.com
 
 GitHub: https://github.com/aikenm
 
-GitHub Pages: https://aikenm.github.io/neobis_front_lasles_VPN/
+
 
