@@ -1,6 +1,7 @@
 # neobis_front_lasles_VPN
 
-# ![LaslesVPN Logo](images/logo.png) LaslesVPN Landing Page 
+
+# LaslesVPN Landing Page 
 
 ## Project Description
 
