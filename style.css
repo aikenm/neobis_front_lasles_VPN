@@ -36,14 +36,14 @@ body {
     text-decoration: none;
     color: #4F5665;
     font-family: Rubik;
-    font-size: 15px;
+    font-size: 16px;
     font-style: normal;
     font-weight: 300;
     line-height: normal;
 }
 
 .login-buttons {
-    font-size: 15px;
+    font-size: 16px;
     font-style: normal;
     font-weight: 500;
     line-height: normal;
@@ -148,7 +148,7 @@ body {
 
 .container-2__block {
     padding-top: 67.5px;
-    padding-bottom: 67.5px;
+    padding-bottom: 47px;
 }
 
 .container-2 .vector {
@@ -183,26 +183,73 @@ body {
     float: left;
 }
 
-.container-2__block .users-number {
+.users-number {
     margin-right: 130px;
     margin-left: 36.5px;
+    margin-top: -55px;
     display: inline;
-    float: left;
+    float: right;
+    color: #4F5665;
+    font-family: Rubik;
+    font-size: 20px;
+    font-style: normal;
     font-weight: 300;
+    line-height: 30px;
 }
 
-.container-2__block .locations-number {
-    margin-right: 130px;
-    margin-left: 36.5px;
-    display: inline-block;
-    font-weight: 300;
+.users-number b {
+    color: #0B132A;
+    font-family: Rubik;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 30px;
 }
 
-.container-2__block .servers-number {
+.locations-number {
     margin-right: 130px;
     margin-left: 36.5px;
-    display: inline-block;
+    margin-top: -55px;
+    display: inline;
+    float: right;
+    color: #4F5665;
+    font-family: Rubik;
+    font-size: 20px;
+    font-style: normal;
     font-weight: 300;
+    line-height: 30px;
+}
+
+.locations-number b {
+    color: #0B132A;
+    font-family: Rubik;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 30px;
+}
+
+.servers-number {
+    margin-right: 130px;
+    margin-left: 36.5px;
+    margin-top: -55px;
+    display: inline;
+    float: right;
+    color: #4F5665;
+    font-family: Rubik;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 30px;
+}
+
+.servers-number b {
+    color: #0B132A;
+    font-family: Rubik;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 30px;
 }
 
 .container-3 {
@@ -606,13 +653,13 @@ body {
 }
 
 .review-paragraph {
-    margin-top: 0;
+    margin-top: -20px;
     display: inline-block;
     padding-left: 30px;
     padding-right: 30px;
     color: #0B132A;
     font-family: Rubik;
-    font-size: 14px;
+    font-size: 16px;
     font-style: normal;
     font-weight: 300;
     line-height: 30px;
