@@ -15,14 +15,15 @@ To view the LaslesVPN landing page, no installation is required. Simply open the
 1. Clone the repository to your local machine:
 
 ```bash
-Copy code
 git clone https://github.com/aikenm/neobis_front_lasles_VPN.git
 ```
 2. Open the project in your code editor (e.g., VS Code):
 
 In the editor, you will find two main files:
- **index.html**: Markup of the entire website, the main landing page.
- **style.css**: Styles for all the elements on the page.
+
+ * **index.html**: Markup of the entire website, the main landing page.
+ * **style.css**: Styles for all the elements on the page.
+
 Also you will find an **image** folder with all the images that was used in this project.
 
 To view the website, simply open the index.html file in your web browser.
@@ -36,5 +37,8 @@ This project is authored by Aiken Manasbekov.
 For any questions or suggestions, feel free to contact me:
 
 Email: a.mnsbkv@gmail.com
+
 GitHub: https://github.com/aikenm
+
 GitHub Pages: https://aikenm.github.io/neobis_front_lasles_VPN/
+
